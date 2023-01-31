@@ -1,0 +1,17 @@
+C:\Users\yason\source\repos\windowsapp\herhaling final\herhaling final\bin\Debug\net6.0-windows\herhaling final.exe
+C:\Users\yason\source\repos\windowsapp\herhaling final\herhaling final\bin\Debug\net6.0-windows\herhaling final.deps.json
+C:\Users\yason\source\repos\windowsapp\herhaling final\herhaling final\bin\Debug\net6.0-windows\herhaling final.runtimeconfig.json
+C:\Users\yason\source\repos\windowsapp\herhaling final\herhaling final\bin\Debug\net6.0-windows\herhaling final.dll
+C:\Users\yason\source\repos\windowsapp\herhaling final\herhaling final\bin\Debug\net6.0-windows\herhaling final.pdb
+C:\Users\yason\source\repos\windowsapp\herhaling final\herhaling final\obj\Debug\net6.0-windows\herhaling final.vbproj.AssemblyReference.cache
+C:\Users\yason\source\repos\windowsapp\herhaling final\herhaling final\obj\Debug\net6.0-windows\herhaling_final.Form1.resources
+C:\Users\yason\source\repos\windowsapp\herhaling final\herhaling final\obj\Debug\net6.0-windows\herhaling final.vbproj.GenerateResource.cache
+C:\Users\yason\source\repos\windowsapp\herhaling final\herhaling final\obj\Debug\net6.0-windows\herhaling final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yason\source\repos\windowsapp\herhaling final\herhaling final\obj\Debug\net6.0-windows\herhaling final.AssemblyInfoInputs.cache
+C:\Users\yason\source\repos\windowsapp\herhaling final\herhaling final\obj\Debug\net6.0-windows\herhaling final.AssemblyInfo.vb
+C:\Users\yason\source\repos\windowsapp\herhaling final\herhaling final\obj\Debug\net6.0-windows\herhaling final.vbproj.CoreCompileInputs.cache
+C:\Users\yason\source\repos\windowsapp\herhaling final\herhaling final\obj\Debug\net6.0-windows\herhaling final.dll
+C:\Users\yason\source\repos\windowsapp\herhaling final\herhaling final\obj\Debug\net6.0-windows\refint\herhaling final.dll
+C:\Users\yason\source\repos\windowsapp\herhaling final\herhaling final\obj\Debug\net6.0-windows\herhaling final.pdb
+C:\Users\yason\source\repos\windowsapp\herhaling final\herhaling final\obj\Debug\net6.0-windows\herhaling final.genruntimeconfig.cache
+C:\Users\yason\source\repos\windowsapp\herhaling final\herhaling final\obj\Debug\net6.0-windows\ref\herhaling final.dll
